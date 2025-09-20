@@ -1,3 +1,5 @@
 {
-  "endpoints": []
+  "endpoints": [
+    "http://5.189.182.99:2000/exc"
+  ]
 }
